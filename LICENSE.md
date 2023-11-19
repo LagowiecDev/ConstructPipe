@@ -24,7 +24,7 @@ Version 1.0.0
 
 10. **Limitation of Liability**: In no event shall LagowiecDev the Fallen Angel be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of ConstructPipe, even if advised of the possibility of such damage.
 
-11. **Governing Law**: This license is governed by and construed in accordance with the laws of [Your Jurisdiction].
+11. **Governing Law**: This license is governed by and construed in accordance with the laws of Poland.
 
 **By using ConstructPipe, you acknowledge that you have read and understood this license and agree to be bound by its terms and conditions.**
 
