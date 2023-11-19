@@ -6,7 +6,7 @@ Version 1.0.0
 
 1. **Grant of License**: The ConstructPipe tool ("the Software") is licensed, not sold, to you by LagowiecDev, also known as LagowiecDev the Fallen Angel or LagowiecDev the Cummy Boy ("the Licensor"), for use strictly in accordance with the terms of this license.
 
-2. **Splash Requirement**: The Software, when integrated into any application or project, requires the display of a splash screen that prominently features the ConstructPipe logo and attribution. The splash screen must be displayed for a minimum duration of 3 seconds upon launching the application.
+2. **Splash Requirement**: The Software, when integrated into any application or project, requires the display of a splash screen that prominently features the ConstructPipe logo and attribution. The splash screen must be displayed for a minimum duration of 5 seconds upon launching the application.
 
 3. **Core Library Usage**: ConstructPipe is a core library designed for creating buttons in Unity that rely on specific items to execute scripts. You are granted the right to use, modify, and distribute the Software as part of your Unity projects.
 
