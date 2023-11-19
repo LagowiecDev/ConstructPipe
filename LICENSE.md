@@ -26,6 +26,8 @@ Version 1.0.0
 
 11. **Governing Law**: This license is governed by and construed in accordance with the laws of Poland.
 
+**Modifications and Updates**: The Licensor reserves the right to modify the terms of this license. In the event of any modifications, users will be informed in advance through a prominently displayed notice on the official ConstructPipe channels.
+
 **By using ConstructPipe, you acknowledge that you have read and understood this license and agree to be bound by its terms and conditions.**
 
 © 2023 LagowiecDev the Fallen Angel. All Rights Reserved.
