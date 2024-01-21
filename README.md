@@ -1,6 +1,6 @@
 # ConstructPipe Source Code and Github Page 
 
-## **DISCLAIMER: *This package is abonded for now.***
+## **DISCLAIMER: *Development on this package was paused for now.***
 
 ## **About ConstructPipe** 
 
